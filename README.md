@@ -24,12 +24,7 @@ AI Evolution Graph
 	- 费根鲍姆（Edward Feigenbaum）和肖特利夫（Bruce Buchanan），开发了MYCIN系统，用于医学诊断³
 	- 温伯格（Terry Winograd），开发了SHRDLU系统，用于自然语言理解和生成³
 	- 霍恩菲尔德（Takeo Kanade）和莫里维茨（Hans Moravec），开发了自动驾驶汽车和计
-	    
-	  Source: Conversation with Bing, 2023/5/15  
-	  (1) 人工智能的历史、现状和未来----中国科学院. https://www.cas.cn/zjs/201902/t20190218_4679625.shtml.  
-	  (2) 一文概览人工智能(AI)发展历程 - 知乎. https://zhuanlan.zhihu.com/p/375549477.  
-	  (3) 人工智能发展史 - 知乎. https://zhuanlan.zhihu.com/p/43599960.  
-- 好的，我会继续介绍人工智能发展的后面几个阶段。
+
 - # 平稳发展期（20世纪90年代中-2010年）
 - 这一阶段主要是人工智能的发展进入了一个相对平稳的阶段，涉及神经网络、机器学习、数据挖掘、知识图谱等方面。
 - 关键人物/研究机构/公司有：
