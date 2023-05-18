@@ -1,0 +1,17 @@
+- DeepMind 是一家人工智能研究机构，成立于2010年，总部位于英国伦敦。以下是 DeepMind 发展历程的编年史：
+	- 2010 年，DeepMind 成立，由 Demis Hassabis、Shane Legg 和 Mustafa Suleyman 共同创立。
+	- 2011 年，DeepMind 获得了来自 Founders Fund 和 Li Ka-shing 的种子资金，开始进行人工智能研究。
+	- 2012 年，DeepMind 发布了第一篇论文，介绍了一种基于强化学习的系统，可以自动玩 Atari 游戏。
+	- 2013 年，DeepMind 获得了来自 Horizons Ventures 和 Innovation Endeavors 的数百万美元投资。
+	- 2014 年，DeepMind 开发了一种名为“深度 Q 网络”的算法，可以让计算机自动学习打 Atari 游戏，表现超过了人类专业玩家。
+	- 2015 年，DeepMind 开发的 AlphaGo 程序击败了围棋世界冠军李世石，引起了广泛的关注。
+	- 2016 年，DeepMind 将 AlphaGo 改进为 AlphaGo Zero，不需要任何人类专家的知识，自己学习围棋，并在围棋界再次引起轰动。
+	- 2017年10月，DeepMind发布了一款名为WaveNet的文本-语音转换系统，能够产生更自然和流畅的语音。
+	- 2018 年，DeepMind 开发的 AlphaFold 获得 [CASP13](https://predictioncenter.org/casp13/) 大赛中的多个奖项，这是一个生物学领域的竞赛，旨在预测蛋白质的三维结构。
+	- 2018年7月，DeepMind与谷歌合作，在谷歌地图中引入了基于深度强化学习的路线推荐系统。
+	- 2019 年，DeepMind 和 OpenAI 共同开发了名为“GPT-2”的自然语言处理模型，引起了一些关于模型可能带来的潜在风险的担忧。
+	- 2019年1月，DeepMind发布了AlphaStar，一种能够在星际争霸II这款复杂的即时战略游戏中击败职业玩家的人工智能系统。
+	- 2020年11月，DeepMind发布了AlphaFold2，一种能够高效准确地预测蛋白质结构的深度学习系统，在第14届蛋白质结构预测评测大赛（[CASP14](https://predictioncenter.org/casp14/)）中取得了突破性的成绩。
+	- 2021 年，DeepMind 开发的脑机接口系统 AlphaGAN 在“百度杯”国际生物医学工程创新大赛中获得了第一名。
+	- 2021年，DeepMind与牛津大学合作，开发了能够在经典游戏《外交》中战胜人类专家的程序DiplomacyBot1。
+- 总之，DeepMind 的研究涉及了许多领域，如强化学习、自然语言处理、计算机视觉和生物学等，并在人工智能领域取得了一系列的突破和创新。
